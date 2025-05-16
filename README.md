@@ -35,11 +35,11 @@ Node.js, Express, MongoDB, TypeScript, REST APIs
 ## Deployment
 Choose a Platform: Select a deployment platform like render
 
-Configure Environment Variables: Set the necessary environment variables (database connection string, JWT secret, port number) on the deployment platform.
+Configure Environment Variables: Set the necessary environment variables (database connection string, port number) on the deployment platform.
 
 
 Deploy the Application: Follow the platform's instructions for deploying a Node.js application. This typically involves pushing your code to a Git repository and configuring the platform to run your application.
-
+ 
 Test the Deployment: After deployment, test the application thoroughly to ensure that all features are working correctly.
 
 Test the APIs using postman tool
